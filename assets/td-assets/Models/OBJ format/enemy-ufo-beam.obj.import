@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dwdd8y508n2gb"
+path="res://.godot/imported/enemy-ufo-beam.obj-c7a5ba757cce8f820aa9914249d0eca1.mesh"
+
+[deps]
+
+files=["res://.godot/imported/enemy-ufo-beam.obj-c7a5ba757cce8f820aa9914249d0eca1.mesh"]
+
+source_file="res://assets/td-assets/Models/OBJ format/enemy-ufo-beam.obj"
+dest_files=["res://.godot/imported/enemy-ufo-beam.obj-c7a5ba757cce8f820aa9914249d0eca1.mesh", "res://.godot/imported/enemy-ufo-beam.obj-c7a5ba757cce8f820aa9914249d0eca1.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

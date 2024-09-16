@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://b2l5g514sxolt"
+path="res://.godot/imported/tile-river-bridge.obj-61b214871f34856f52c9ddeffed20d9a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tile-river-bridge.obj-61b214871f34856f52c9ddeffed20d9a.mesh"]
+
+source_file="res://assets/td-assets/Models/OBJ format/tile-river-bridge.obj"
+dest_files=["res://.godot/imported/tile-river-bridge.obj-61b214871f34856f52c9ddeffed20d9a.mesh", "res://.godot/imported/tile-river-bridge.obj-61b214871f34856f52c9ddeffed20d9a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

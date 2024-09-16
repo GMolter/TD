@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://ivsgo4js2otu"
+path="res://.godot/imported/snow-tile-end.obj-2b5399ee0188696ae5cbc64c71c26ecd.mesh"
+
+[deps]
+
+files=["res://.godot/imported/snow-tile-end.obj-2b5399ee0188696ae5cbc64c71c26ecd.mesh"]
+
+source_file="res://assets/td-assets/Models/OBJ format/snow-tile-end.obj"
+dest_files=["res://.godot/imported/snow-tile-end.obj-2b5399ee0188696ae5cbc64c71c26ecd.mesh", "res://.godot/imported/snow-tile-end.obj-2b5399ee0188696ae5cbc64c71c26ecd.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false

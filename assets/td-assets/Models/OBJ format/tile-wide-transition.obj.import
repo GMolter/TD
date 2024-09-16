@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dgd1slpo6mda2"
+path="res://.godot/imported/tile-wide-transition.obj-c3073d07c8cab7c91cb57c564fe11c52.mesh"
+
+[deps]
+
+files=["res://.godot/imported/tile-wide-transition.obj-c3073d07c8cab7c91cb57c564fe11c52.mesh"]
+
+source_file="res://assets/td-assets/Models/OBJ format/tile-wide-transition.obj"
+dest_files=["res://.godot/imported/tile-wide-transition.obj-c3073d07c8cab7c91cb57c564fe11c52.mesh", "res://.godot/imported/tile-wide-transition.obj-c3073d07c8cab7c91cb57c564fe11c52.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
