@@ -5,11 +5,16 @@ A simple tower defense game.
 
 ## Features
 
-- Multiple tower types
 - Various enemy types
-- Upgradable towers
 - Wave-based gameplay
+- Is literally just 3D.
 
 ## Contributers
 
 * GMolter - Gavin Molter(Owner)
+
+## Extra
+
+Quite literally just followed the tutorial videos line by line, character by character, comment by comment.
+
+Link to Tutorial Channel = https://www.youtube.com/@widearchshark3981
