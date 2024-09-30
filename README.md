@@ -15,6 +15,6 @@ A simple tower defense game.
 
 ## Extra
 
-Quite literally just followed the tutorial videos line by line, character by character, comment by comment.
+Quite literally just followed the tutorial videos line by line, character by character, comment by comment. I have no life. :(
 
 Link to Tutorial Channel = https://www.youtube.com/@widearchshark3981
